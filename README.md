@@ -1,4 +1,3 @@
-## Hi there 👋
 
 
 <div align="center">
@@ -33,22 +32,39 @@ class Kshiraja:
 <tr>
 <td align="center" width="50%">
 
-### 🏛️ RIT Bangalore
-**AI & Machine Learning**
+### 🏛️ IIT Madras
+**BS in Data Science & Applications**
 
-<img style="align:center" src="https://img.shields.io/badge/CGPA-8.75%2F10-gold?style=for-the-badge" />
+*September 2024 – Present*
 
-Data Structures • AI • DBMS • Discrete Math
+![CGPA](https://img.shields.io/badge/CGPA-9.50%2F10-brightgreen?style=for-the-badge)
+![Semester](https://img.shields.io/badge/SEMESTER-2ND%20COMPLETED-yellow?style=for-the-badge)
+
+**📚 Core Coursework**
+- 🧠 Computational Thinking
+- 📐 Mathematics for Data Science
+- 📊 Statistics for Data Science
+- 💻 System Commands
+- 🚀 Modern Application Development
 
 </td>
 <td align="center" width="50%">
 
-### 🏛️ IIT Madras
-**Data Science**
+### 🏛️ Ramaiah Institute of Technology
+**B.E. Computer Science Engineering**
 
-<img src="https://img.shields.io/badge/CGPA-9.50%2F10-gold?style=for-the-badge" />
+*(Cybersecurity Specialization)*
 
-Statistics • Probability • Linear Algebra
+*August 2023 – August 2027*
+
+![CGPA](https://img.shields.io/badge/CGPA-9.56%2F10-brightgreen?style=for-the-badge)
+![Semester](https://img.shields.io/badge/SEMESTER-4TH%20COMPLETED-yellow?style=for-the-badge)
+
+**📚 Core Coursework**
+- �️ Database Management System
+- 📊 Data Structures
+- 🤖 Artificial Intelligence & Machine Learning
+- 📈 Power BI
 
 </td>
 </tr>
@@ -172,17 +188,3 @@ Docker • GCP • MongoDB • PostgreSQL • MySQL
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 
 </div>
-<!--
-**kshirajahere/kshirajahere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
