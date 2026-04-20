@@ -1,1 +1,0 @@
-{"version":3,"file":"settings-reader.js","sourceRoot":"","sources":["../src/settings-reader.ts"],"names":[],"mappings":";;;AAAA,2BAAkC;AAG3B,MAAM,eAAe,GAAG,CAAC,QAAgB,EAAoB,EAAE;IAClE,MAAM,OAAO,GAAG,IAAA,iBAAY,EAAC,QAAQ,EAAE;QACnC,QAAQ,EAAE,MAAM;QAChB,IAAI,EAAE,GAAG;KACZ,CAAC,CAAC;IACH,OAAO,IAAI,CAAC,KAAK,CAAC,OAAO,CAAkB,CAAC;AAChD,CAAC,CAAC;AANW,QAAA,eAAe,mBAM1B"}
