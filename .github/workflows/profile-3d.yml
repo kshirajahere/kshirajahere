@@ -19,7 +19,7 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v5
-      - uses: ./.github/actions/github-profile-3d-contrib
+      - uses: yoshi389111/github-profile-3d-contrib@0.8.2 #the origina auth
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: kshirajahere
