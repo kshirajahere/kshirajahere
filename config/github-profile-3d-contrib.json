@@ -1,0 +1,20 @@
+{
+  "type": "rainbow",
+  "fileName": "profile-kshirajahere-3d.svg",
+  "backgroundColor": "#050816",
+  "foregroundColor": "#d9ecff",
+  "strongColor": "rgb(0,255,224)",
+  "weakColor": "#5e6a85",
+  "radarColor": "rgb(0,255,224)",
+  "growingAnimation": true,
+  "saturation": "65%",
+  "contribLightness": [
+    "24%",
+    "34%",
+    "44%",
+    "54%",
+    "64%"
+  ],
+  "duration": "9s",
+  "hueRatio": -9
+}
