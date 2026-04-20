@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kshirajahere/kshirajahere/main/profile-3d-contrib/profile-kshirajahere-3d.svg" alt="3D contributions for kshirajahere" />
+</p>
 
 
 <div align="center">
