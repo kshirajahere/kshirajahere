@@ -8,15 +8,15 @@
 </div>
 
 <div align="center">
+  <img src="./profile-3d-contrib/profile-kshirajahere-3d.svg" alt="3D contributions for kshirajahere" />
+</div>
+<div align="center">
   <a href="https://github.com/kshirajahere?tab=repositories">
     <img src="./assets/projects.png" alt="Featured projects board" />
   </a>
 </div>
 
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-kshirajahere-3d.svg" alt="3D contributions for kshirajahere" />
-</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kshiraja-nelapati">
